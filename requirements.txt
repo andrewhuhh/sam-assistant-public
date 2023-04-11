@@ -1,0 +1,11 @@
+datetime
+glob2
+pillow
+google-cloud-texttospeech
+gtts
+openai
+pydub
+pyaudio
+python-dotenv
+speechrecognition
+tk
